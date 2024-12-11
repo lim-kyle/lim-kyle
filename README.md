@@ -5,18 +5,17 @@
   <img src="https://komarev.com/ghpvc/?username=lim-kyle&label=Profile%20views&color=0e75b6&style=flat" alt="lim-kyle" /> 
 </p>
 
-<!-- GitHub Trophies with Transparent Background -->
-<p align="left"> 
+<!-- GitHub Trophies with Spacing and Non-White Background -->
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lim-kyle&theme=transparent&no-frame=true" alt="lim-kyle" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lim-kyle&theme=radical&no-frame=true" alt="lim-kyle" />
   </a> 
 </p>
 
-- 📫 How to reach me: **kyleandrelim65@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Add social links here -->
+  - 📫 How to reach me: **kyleandrelim65@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
