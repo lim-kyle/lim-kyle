@@ -3,7 +3,7 @@
 A passionate developer dedicated to crafting clean and efficient code. Constantly exploring new technologies. Whether collaborating on a team or building solo projects, I thrive on solving challenges and bringing concepts to life.<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//kyle-andre-lim-8658ba1ba/) 
 
 # 💻 Tech Stack:
@@ -13,10 +13,10 @@ A passionate developer dedicated to crafting clean and efficient code. Constantl
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lim-kyle&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lim-kyle&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lim-kyle&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
