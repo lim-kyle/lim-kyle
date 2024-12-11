@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Lim</h1>
-# 💫 About Me:
+💫 About Me:
 A passionate developer dedicated to crafting clean and efficient code. Constantly exploring new technologies. Whether collaborating on a team or building solo projects, I thrive on solving challenges and bringing concepts to life.<br>
 
 
